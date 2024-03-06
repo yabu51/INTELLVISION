@@ -1,0 +1,4 @@
+this is file A mule
+this is file B sofet
+this is file C share
+this is file D point
